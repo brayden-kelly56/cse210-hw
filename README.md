@@ -1,5 +1,7 @@
 # cse210-student-template
-This is the starter code for students in CSE 210.
+This is the starter code for Brayden Kelly in CSE 210.
+
+Here is a little smiley face as well :)
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
