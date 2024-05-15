@@ -7,6 +7,11 @@ public class Entry
     public string _response;
 
     //Methods
+
+    public Entry(string dateParam, string promptParam, string responseParam)
+    {
+            
+    }
     public string getDate()
     {
         DateTime today = DateTime.Today;
